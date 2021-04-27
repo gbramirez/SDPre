@@ -6,14 +6,14 @@ public class Objective3Lab3 {
     int third = 1 + (int)(Math.random() *6);
     int sum = first + second + third;
 
-    System.out.println(first);
-    System.out.println("+");
+    System.out.print(first);
+    System.out.print("+");
 
-    System.out.println(second);
-    System.out.println("+");
+    System.out.print(second);
+    System.out.print("+");
 
-    System.out.println(third);
-    System.out.println("=");
+    System.out.print(third);
+    System.out.print("=");
 
     System.out.println(sum);
 
